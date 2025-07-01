@@ -1,0 +1,5 @@
+title: My Merlot Blog
+description: A blog built with Jekyll and Merlot
+theme: jekyll-theme-merlot
+plugins:
+  - jekyll-feed
